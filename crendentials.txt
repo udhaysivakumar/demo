@@ -1,2 +1,0 @@
-user=udhay
-password=1234
